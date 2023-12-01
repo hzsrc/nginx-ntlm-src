@@ -8,7 +8,7 @@
 经过网上查阅了大量资料，并反复尝试，解决的方法是需要启用一个nginx-ntlm-module的nginx模块，办法如下：
 
 1、下载nginx源码及依赖的源码包。有点麻烦，见后面提供的源码包。    
-2、下载nginx-ntlm-module源码：https://github.com/gabihodoroaga/nginx-ntlm-module。    
+2、下载nginx-ntlm-module源码：https://github.com/gabihodoroaga/nginx-ntlm-module 。    
 3、编译源码为可执行文件，并安装到linux。    
 4、按模块说明的配置nginx.conf。    
 ![](https://segmentfault.com/img/bVc7Ho7)
